@@ -4,3 +4,15 @@
 .container, .content {
 width: 100%;
 }
+.section{
+    width: 49%;
+    display:inline-block;
+}
+.text-align{
+    vertical-align: top;
+}
+.heading{
+    vertical-align: top;
+    text-align: center;
+    margin-top: 100px;
+}
